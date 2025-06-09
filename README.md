@@ -4,6 +4,9 @@ Email: thuan112@ucsc.edu
 
 Project 4b (Self Project)
 
+Game control: Use the ARROW keys to move the character.
+              Space Key to shoot AFTER you collect coins. 
+
 1. All elements are designed in this way, no bug so far. 
 2. The upper level path required 10 coins/bullets to kill the boss.
 
