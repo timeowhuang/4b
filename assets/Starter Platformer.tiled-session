@@ -1,0 +1,316 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap02.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 8,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 515.5625,
+                "y": 215.9375
+            }
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap02.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap03.tmx": {
+            "scale": 0.6108203124999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 159.62141075653903,
+                "y": 1228.6755771567439
+            }
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap03.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap04.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 387,
+                "y": 215.66666666666663
+            }
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap04.tmx#colored_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap05.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 65.5,
+                "y": 350.5
+            }
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap05.tmx#colored_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap07.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 140.5,
+                "y": 143
+            }
+        },
+        "C:/Users/sonny/Documents/CMPM120/Mappy/assets/tilemap07.tmx#colored_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.5,
+                "y": 263
+            }
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 361.5,
+                "y": 241
+            }
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/Pathfinder/assets/tiny-town-tileset.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 606,
+                "y": 281
+            }
+        },
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/Pathfinder/assets/tiny-town-tileset.tmx#kenney-tiny-town": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/Final Project/PlatformerGame/assets/platformer-level-1.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 543.3333333333333,
+                "y": 348
+            }
+        },
+        "C:/Users/timeo/Desktop/Final Project/PlatformerGame/assets/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/platformer-level-1.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 336.5,
+                "y": 288.5
+            }
+        },
+        "C:/Users/timeo/Desktop/platformer-level-1.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 420.66666666666663,
+                "y": 315.99999999999994
+            }
+        },
+        "C:/Users/timeo/Desktop/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/timeo/Desktop/参考/PlatformerGame/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 258.66666666666663,
+                "y": 378.66666666666663
+            }
+        },
+        "C:/Users/timeo/Desktop/参考/PlatformerGame/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "D:/Downloads/kenney_pixel-platformer/Tiled/tilemap-example-a.tmx": {
+            "scale": 1.8127136752136752,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 227.007720869924,
+                "y": 134.88065067483942
+            }
+        },
+        "D:/Downloads/kenney_pixel-platformer/Tiled/tilemap-example-b.tmx": {
+            "scale": 1.8127136752136752,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 234.73094831142808,
+                "y": 134.88065067483942
+            }
+        },
+        "D:/Downloads/kenney_pixel-platformer/Tiled/tileset-characters.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Downloads/kenney_pixel-platformer/Tiled/tileset-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "level_2.tmj": {
+            "scale": 0.23662037037037037,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1081.9017804734888,
+                "y": 333.86812756799077
+            }
+        },
+        "level_2.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "level_3.tmj": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1589,
+                "y": 268
+            }
+        },
+        "level_3.tmj#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1..tmx": {
+            "scale": 1.2429166666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 359.63794837412,
+                "y": 179.81897418706
+            }
+        },
+        "platformer-level-1..tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmj": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 146.33333333333334,
+                "y": 258
+            }
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 699,
+                "y": 396
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "platformer-level-1.tmx#tilemap-backgrounds_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx#tilemap-characters_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1B.tmj": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1080,
+                "y": 336
+            }
+        },
+        "platformer-level-1B.tmj#tilemap-backgrounds_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1B.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -59.09090909090901,
+                "y": 703.0303030303031
+            }
+        },
+        "platformer-level-1B.tmx#tilemap-backgrounds_packed": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/Example/PlatformerGame/assets",
+    "last.imagePath": "C:/Users/sonny/Documents/CMPM120/StarterPlatformer/assets",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 90,
+    "openFiles": [
+        "platformer-level-1.tmj"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmj",
+        "platformer-level-1.tmx",
+        "level_3.tmj",
+        "level_2.tmj",
+        "C:/Users/timeo/Desktop/参考/PlatformerGame/assets/platformer-level-1.tmx",
+        "C:/Users/timeo/Desktop/platformer-level-1.tmj",
+        "C:/Users/timeo/Desktop/Final Project/PlatformerGame/assets/platformer-level-1.tmj",
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmj",
+        "C:/Users/timeo/Desktop/platformer-level-1.tmx",
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/FancySwitch/assets/platformer-level-1.tmx",
+        "platformer-level-1B.tmx",
+        "C:/Users/timeo/Desktop/2025 Spring/CMPM 120/Pathfinder/assets/tiny-town-tileset.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 24,
+        "width": 24
+    }
+}

@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+}
+body {
+    background: #1a1818;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #fff;
+    line-height: 1.4;
+    padding: 1rem;
+    display:flex; 
+    flex-direction:column; 
+    justify-content:center;
+}
